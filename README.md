@@ -65,7 +65,7 @@ This analysis allows the organization to:
 
 # 3. Account Inactivity Alert
 
-## 📌 Overview
+##  Overview
 
 This query identifies **inactive savings and investment accounts** that have had **no financial activity in over one year**. It helps in triggering alerts, prompting re-engagement, or flagging dormant accounts for internal audits.
 
